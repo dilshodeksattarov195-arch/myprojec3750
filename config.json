@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "validatorrave",
+        "uuid": 6446250,
+        "checksum": "e6xeo"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
